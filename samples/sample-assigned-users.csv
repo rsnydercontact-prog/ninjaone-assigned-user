@@ -1,0 +1,16 @@
+Device,Organization,Location,OS Name,Last Login,Username,Name,First Name,Last Name,Email
+PCW117,North Region,Main Office,Microsoft Windows 11 Enterprise Edition,AP\mw6235,mw6235,Marcus Webb,Marcus,Webb,Marcus.Webb@example.com
+LT705,EMEA,Branch Office,Microsoft Windows 11 Enterprise Edition,NA\pr1227,pr1227,Priya Raman,Priya,Raman,Priya.Raman@example.com
+SPTST02,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\af1412adm,af1412adm,Anita Fernandes ADM,Anita,Fernandes ADM,Anita.FernandesADM@example.com
+SPTST01,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\af1412adm,af1412adm,Anita Fernandes ADM,Anita,Fernandes ADM,Anita.FernandesADM@example.com
+VSETCDEV01,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\rm0001adm,rm0001adm,Rohan Mehta ADM,Rohan,Mehta ADM,Rohan.MehtaADM@example.com
+VS006,North Region Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\SVCDB.NOCAct2,SVCDB.NOCAct2,SVCDB NOCAct2,SVCDB,NOCAct2,
+WINPRD001,Corp HQ,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\SVCDB.NOCAct3,SVCDB.NOCAct3,SVCDB NOCAct3,SVCDB,NOCAct3,
+FS01,North Region Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+VS193,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+IDR01,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\er0310adm,er0310adm,Elena Ruiz,,,
+VS002,North Region Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,AP\SVCAP.SINAct,SVCAP.SINAct,SVCAP SINAct,SVCAP,SINAct,SVCAP.SINAct@example.com
+PBIRPT02,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\SVCNA.PBIAct2,SVCNA.PBIAct2,SVCNA PBIAct2,SVCNA,PBIAct2,Marcus.Webb@example.com
+HV02,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\SVCDB.WSAct3,SVCDB.WSAct3,SVCDB WSAct3,SVCDB,WSAct3,Grace.LindqvistADM@example.com
+HV02,AMER Servers,Main Office,Microsoft Windows Server 2022 Standard Edition,NA\tn0202adm,tn0202adm,Tomas Nowak ADM,Tomas,Nowak ADM,Tomas.NowakADM@example.com
+GHOSTPC99,AMER Servers,Main Office,Microsoft Windows 11 Enterprise Edition,NA\gl8131adm,gl8131adm,Grace Lindqvist ADM,Grace,Lindqvist ADM,Grace.LindqvistADM@example.com

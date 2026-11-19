@@ -1,0 +1,3 @@
+ninja-assigned-user-*.csv
+*.log
+.env
